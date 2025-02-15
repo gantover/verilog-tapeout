@@ -11,6 +11,8 @@ You can also include images in this folder and reference them in the markdown. E
 
 Explain how your project works
 
+For now just an adder
+
 ## How to test
 
 Explain how to use your project
